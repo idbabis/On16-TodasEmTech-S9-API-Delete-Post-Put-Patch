@@ -56,7 +56,7 @@ O que foi criado de fato, segue abaixo para vocês verem como ficou.
 ![delete](https://user-images.githubusercontent.com/100974682/170775086-f8ee8544-4b6a-4dd5-81d6-980bf34ca364.png)
 
 
-### `Espero que tenham gostado, estou engatinhando ainda, mas logo logo, estarei andando sem cair` 
+### `Espero que tenham gostado, estou engatinhando ainda, mas logo logo, estarei andando sem cair.`
 
 =============================================
 
